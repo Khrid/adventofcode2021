@@ -1,7 +1,7 @@
 # Advent of code 2021
 https://adventofcode.com/2021
 
-- [x] day 1 ✔️
+- [x] day 1
 - [ ] day 2
 - [ ] day 3
 - [ ] day 4
